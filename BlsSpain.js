@@ -51,7 +51,7 @@ let j = "";
   var Names = ['Teste1', 'Teste2', 'Teste3', 'Teste4', 'Teste5', ];
 
   var data = [
-                                    { mail: 'gacemchaouchenabil7@gmail.com', password: 'AZER@ty3' },
+                                  
 
                                            { mail: 'اكتب الايميل ', password: 'اكتب كلمه السر' },
 
