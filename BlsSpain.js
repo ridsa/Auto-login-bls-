@@ -1,14 +1,15 @@
-  // ==UserScript==
-             // @name         BLS AUTO LOGIN ACCES AUTOMATIQUE A VOTRE COMPTE
-             // @namespace    https://algeria.blsspainglobal.com/DZA/home/index
-             // @version      3.2
-             // @description  BLS AUTO LOGIN/ ACCES AUTOMATIQUE A VOTRE COMPTE
-             // @author       RedhaNapS
-             // @match        https://algeria.blsspainglobal.com/DZA/Account/LogIn*
-             // @match        https://algeria.blsspainglobal.com/DZA/account/login*
-             // @match        *://www.blsspainmorocco.net/*
-             // @grant        none
-             // ==/UserScript==
+// ==UserScript==
+// @name         BLS AUTO LOGIN ACCES AUTOMATIQUE A VOTRE COMPTE
+// @namespace    https://algeria.blsspainglobal.com/DZA/home/index
+// @version      3.2
+// @description  BLS AUTO LOGIN/ ACCES AUTOMATIQUE A VOTRE COMPTE
+// @author       RedhaNapS
+// @match        https://algeria.blsspainglobal.com/DZA/Account/LogIn*
+// @match        https://algeria.blsspainglobal.com/DZA/account/login*
+// @match        *://www.blsspainmorocco.net/*
+// @icon         https://algeria.blsspainglobal.com/assets/images/logo.png
+// @grant        none
+// ==/UserScript==
 
 /*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*/
 //*
@@ -51,7 +52,7 @@ let j = "";
   var Names = ['Teste1', 'Teste2', 'Teste3', 'Teste4', 'Teste5', ];
 
   var data = [
-                                  
+                                    
 
                                            { mail: 'اكتب الايميل ', password: 'اكتب كلمه السر' },
 
@@ -60,7 +61,7 @@ let j = "";
                                            { mail: 'اكتب الايميل ', password: 'اكتب كلمه السر' },
 
                                            { mail: 'اكتب الايميل ', password: 'اكتب كلمه السر' },
-    
+
   ];
 
   function _0x32f8() {var _0x4e1ff4 = ['style','12hGFIeX','resize','mail','26361OfUqSy','552685yiNIul','getElementById','createElement','querySelector','1177Ywxnoo','64914fBhLxO','#btnSubmit','parentNode','1znwcfm','3713101CEsTzV','transform','width','input','insertBefore','#3498db','form','scale(0.9)','UserId','value','border-color:\x20white;font-weight:\x20bold;background-image:\x20linear-gradient(-225deg,#5143d9\x200%,\x20#1984c8\x2015%,\x20#5143d9\x2050%,\x20rgb(219\x2091\x20153)\x20100%);cursor:\x20pointer;\x20width:\x20100px;\x20line-height:\x2022px;color:white;\x20margin:\x200.7px;border-radius:\x207px','readOnly','auto','Password','1280cUwjBo','mouseout','click','backgroundColor','1506573FKKvkm','getElementsByTagName','80690fHYIKn','893594wuLcTo','addEventListener',];
@@ -177,7 +178,7 @@ function _0x1515() {
   };
   return _0x1515();
 }
-(function (_0x2ef4bb, _0x501128) {
+(function (_0x2ef4bbe, _0x501128) {
   var _0x36749b = _0x23ec,
     _0x14d278 = _0x2ef4bb();
   while (!![]) {
@@ -203,9 +204,10 @@ function _0x1515() {
     var _0x2ec704 = document[_0x4cd0b9(0x1e7)](_0x4cd0b9(0x1ea));
     _0x2ec704 &&
       (_0x2ec704[_0x4cd0b9(0x1e3)][_0x4cd0b9(0x1f1)] = _0x4cd0b9(0x1e1));
-    var _0x4325cc = document[_0x4cd0b9(0x1e7)]('btnVerified');
+    var _0x4325cc = document[_0x4cd0b9(0x1e7)]('');
     _0x4325cc && _0x4325cc[_0x4cd0b9(0x1e3)][_0x4cd0b9(0x1ed)]('display');
-    var _0x251610 = document['getElementById'](_0x4cd0b9(0x1ef)); _0x251610 &&_0x251610[_0x4cd0b9(0x1e3)][_0x4cd0b9(0x1ed)](_0x4cd0b9(0x1f1));var _0x5d0560 = document[_0x4cd0b9(0x1e7)](_0x4cd0b9(0x1e9));_0x5d0560 && (_0x5d0560[_0x4cd0b9(0x1e5)] = 'btnVerified');})();
+    var _0x251610 = document['getElementById'](_0x4cd0b9(0x1ef)); _0x251610 &&_0x251610[_0x4cd0b9(0x1e3)][_0x4cd0b9(0x1ed)](_0x4cd0b9(0x1f1));
+                var _0x5d0560d = document[_0x4cd0b9(0x1e7)](_0x4cd0b9(0x1e9));_0x5d0560 && (_0x5d0560[_0x4cd0b9(0x1e5)] = 'btnVerified');})();
 
 function _0x9549(_0x4449e0, _0x633e98) {
   var _0x4c57fb = _0x4c57();
